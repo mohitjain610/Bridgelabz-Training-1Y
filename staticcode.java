@@ -30,5 +30,8 @@ class Demo1 {
 
   
         x = 50; 
+	System.out.println(args[0]);
+	System.out.println(Integer.parseInt(args[0])+Integer.parseInt(args[1]));
+	
     }
 }
