@@ -1,4 +1,4 @@
-package com.gla.string;
+package com.gla.string.level1;
 
 import java.util.Scanner;
 public class CompareStrings{
