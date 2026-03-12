@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="227901b5-924a-4a49-b721-ab6322421139" name="Changes" comment="[Mohit Jain]Add order" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mohitjain610&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mohitjain610/Bridgelabz-Training-1Y.git&quot;,
+    &quot;accountId&quot;: &quot;3582513c-d286-4c9c-8b86-c23bdd606ae4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="39SYZxFemFelEbZtCwzFGCYwryD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CompareStrings.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "workshop",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mohitjain/Downloads/college code/Bridgelabz-Training-1Y",
+    "onboarding.tips.debug.path": "/Users/mohitjain/Downloads/college code/Bridgelabz-Training-1Y/untitled/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "copyright"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="227901b5-924a-4a49-b721-ab6322421139" name="Changes" comment="" />
+      <created>1770690999018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770690999018</updated>
+    </task>
+    <task id="LOCAL-00053" summary="[Mohit Jain]Add MostFrequentChar">
+      <option name="closed" value="true" />
+      <created>1770817508039</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1770817508039</updated>
+    </task>
+    <task id="LOCAL-00054" summary="[Mohit Jain]Add RemoveChar">
+      <option name="closed" value="true" />
+      <created>1770817536876</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1770817536876</updated>
+    </task>
+    <task id="LOCAL-00055" summary="[Mohit Jain]Add AnagramCheck2">
+      <option name="closed" value="true" />
+      <created>1770817579977</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1770817579977</updated>
+    </task>
+    <task id="LOCAL-00056" summary="[Mohit Jain]Add ReplaceWord">
+      <option name="closed" value="true" />
+      <created>1770817607470</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1770817607470</updated>
+    </task>
+    <task id="LOCAL-00057" summary="[Mohit Jain]Add SimpleInterest">
+      <option name="closed" value="true" />
+      <created>1771038369593</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1771038369594</updated>
+    </task>
+    <task id="LOCAL-00058" summary="[Mohit Jain]Add Handshakes">
+      <option name="closed" value="true" />
+      <created>1771038430370</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1771038430370</updated>
+    </task>
+    <task id="LOCAL-00059" summary="[Mohit Jain]Add ParkRounds">
+      <option name="closed" value="true" />
+      <created>1771038519758</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1771038519759</updated>
+    </task>
+    <task id="LOCAL-00060" summary="[Mohit Jain]Add NumberSign">
+      <option name="closed" value="true" />
+      <created>1771038549867</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1771038549867</updated>
+    </task>
+    <task id="LOCAL-00061" summary="[Mohit Jain]Add SpringSeason">
+      <option name="closed" value="true" />
+      <created>1771038579172</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1771038579173</updated>
+    </task>
+    <task id="LOCAL-00062" summary="[Mohit Jain]Add SumNatural">
+      <option name="closed" value="true" />
+      <created>1771038616405</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1771038616405</updated>
+    </task>
+    <task id="LOCAL-00063" summary="[Mohit Jain]Add SmallLarge">
+      <option name="closed" value="true" />
+      <created>1771038659054</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1771038659055</updated>
+    </task>
+    <task id="LOCAL-00064" summary="[Mohit Jain]Add QuotientRemainder">
+      <option name="closed" value="true" />
+      <created>1771038709468</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1771038709468</updated>
+    </task>
+    <task id="LOCAL-00065" summary="[Mohit Jain]Add ChocolateDivide">
+      <option name="closed" value="true" />
+      <created>1771038739052</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1771038739052</updated>
+    </task>
+    <task id="LOCAL-00066" summary="[Mohit Jain]Add WindChill">
+      <option name="closed" value="true" />
+      <created>1771038784084</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1771038784084</updated>
+    </task>
+    <task id="LOCAL-00067" summary="[Mohit Jain]Add TrigFunctions">
+      <option name="closed" value="true" />
+      <created>1771038818267</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1771038818267</updated>
+    </task>
+    <task id="LOCAL-00068" summary="[Mohit Jain]Add FactorsProgram">
+      <option name="closed" value="true" />
+      <created>1771040951580</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1771040951580</updated>
+    </task>
+    <task id="LOCAL-00069" summary="[Mohit Jain]Add SumNaturalCompare">
+      <option name="closed" value="true" />
+      <created>1771040989250</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1771040989250</updated>
+    </task>
+    <task id="LOCAL-00070" summary="[Mohit Jain]Add LeapYear">
+      <option name="closed" value="true" />
+      <created>1771041031269</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041031269</updated>
+    </task>
+    <task id="LOCAL-00071" summary="[Mohit Jain]Add UnitConvert1">
+      <option name="closed" value="true" />
+      <created>1771041074868</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041074868</updated>
+    </task>
+    <task id="LOCAL-00072" summary="[Mohit Jain]Add UnitConvert2">
+      <option name="closed" value="true" />
+      <created>1771041113518</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041113518</updated>
+    </task>
+    <task id="LOCAL-00073" summary="[Mohit Jain]Add UnitConvert3">
+      <option name="closed" value="true" />
+      <created>1771041146978</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041146978</updated>
+    </task>
+    <task id="LOCAL-00074" summary="[Mohit Jain]Add StudentVoteChecke">
+      <option name="closed" value="true" />
+      <created>1771041174466</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041174466</updated>
+    </task>
+    <task id="LOCAL-00075" summary="[Mohit Jain]Add FriendsInfo">
+      <option name="closed" value="true" />
+      <created>1771041204885</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041204885</updated>
+    </task>
+    <task id="LOCAL-00076" summary="[Mohit Jain]Add NumberArrayCheck">
+      <option name="closed" value="true" />
+      <created>1771041255319</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041255319</updated>
+    </task>
+    <task id="LOCAL-00077" summary="[Mohit Jain]Add BMIArray">
+      <option name="closed" value="true" />
+      <created>1771041300798</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041300798</updated>
+    </task>
+    <task id="LOCAL-00078" summary="[Mohit Jain]Add Quadratic">
+      <option name="closed" value="true" />
+      <created>1771041340804</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041340804</updated>
+    </task>
+    <task id="LOCAL-00079" summary="[Mohit Jain]Add RandomStats">
+      <option name="closed" value="true" />
+      <created>1771041374881</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041374881</updated>
+    </task>
+    <task id="LOCAL-00080" summary="[Mohit Jain]Add PlayerHeights">
+      <option name="closed" value="true" />
+      <created>1771041478165</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041478165</updated>
+    </task>
+    <task id="LOCAL-00081" summary="[Mohit Jain]Add NumberChecker1">
+      <option name="closed" value="true" />
+      <created>1771041543384</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041543384</updated>
+    </task>
+    <task id="LOCAL-00082" summary="[Mohit Jain]Add NumberChecker2">
+      <option name="closed" value="true" />
+      <created>1771041587964</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041587965</updated>
+    </task>
+    <task id="LOCAL-00083" summary="[Mohit Jain]Add NumberChecker3">
+      <option name="closed" value="true" />
+      <created>1771041618278</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041618278</updated>
+    </task>
+    <task id="LOCAL-00084" summary="[Mohit Jain]Add NumberChecker4">
+      <option name="closed" value="true" />
+      <created>1771041646033</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041646033</updated>
+    </task>
+    <task id="LOCAL-00085" summary="[Mohit Jain]Add NumberChecker5">
+      <option name="closed" value="true" />
+      <created>1771041719036</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041719036</updated>
+    </task>
+    <task id="LOCAL-00086" summary="[Mohit Jain]Add FactorTasks">
+      <option name="closed" value="true" />
+      <created>1771041763749</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041763749</updated>
+    </task>
+    <task id="LOCAL-00087" summary="[Mohit Jain]Add OTPProgram">
+      <option name="closed" value="true" />
+      <created>1771041792566</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041792566</updated>
+    </task>
+    <task id="LOCAL-00088" summary="[Mohit Jain]Add CalendarProgram">
+      <option name="closed" value="true" />
+      <created>1771041820716</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041820716</updated>
+    </task>
+    <task id="LOCAL-00089" summary="[Mohit Jain]Add CollinearPoints">
+      <option name="closed" value="true" />
+      <created>1771041856950</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041856950</updated>
+    </task>
+    <task id="LOCAL-00090" summary="[Mohit Jain]Add EmployeeBonus">
+      <option name="closed" value="true" />
+      <created>1771041893712</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041893712</updated>
+    </task>
+    <task id="LOCAL-00091" summary="[Mohit Jain]Add LineEquation">
+      <option name="closed" value="true" />
+      <created>1771041920046</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041920046</updated>
+    </task>
+    <task id="LOCAL-00092" summary="[Mohit Jain]Add StudentPCM">
+      <option name="closed" value="true" />
+      <created>1771041955911</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041955911</updated>
+    </task>
+    <task id="LOCAL-00093" summary="[Mohit Jain]Add MatrixOps1">
+      <option name="closed" value="true" />
+      <created>1771041988643</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1771041988643</updated>
+    </task>
+    <task id="LOCAL-00094" summary="[Mohit Jain]Add MatrixOps2">
+      <option name="closed" value="true" />
+      <created>1771042031779</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1771042031779</updated>
+    </task>
+    <task id="LOCAL-00095" summary="[Mohit Jain]Add Animal">
+      <option name="closed" value="true" />
+      <created>1771428706413</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1771428706413</updated>
+    </task>
+    <task id="LOCAL-00096" summary="[Mohit Jain]Add Employee Management System">
+      <option name="closed" value="true" />
+      <created>1771428920344</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1771428920344</updated>
+    </task>
+    <task id="LOCAL-00097" summary="[Mohit Jain]Add Employee Management System">
+      <option name="closed" value="true" />
+      <created>1771429091561</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1771429091561</updated>
+    </task>
+    <task id="LOCAL-00098" summary="[Mohit Jain]Add Vehicle">
+      <option name="closed" value="true" />
+      <created>1771429202691</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1771429202691</updated>
+    </task>
+    <task id="LOCAL-00099" summary="[Mohit Jain]Add library">
+      <option name="closed" value="true" />
+      <created>1771429332713</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1771429332713</updated>
+    </task>
+    <task id="LOCAL-00100" summary="[Mohit Jain]Add school system">
+      <option name="closed" value="true" />
+      <created>1771429488724</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1771429488724</updated>
+    </task>
+    <task id="LOCAL-00101" summary="[Mohit Jain]Add order">
+      <option name="closed" value="true" />
+      <created>1771429590635</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1771429590635</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Mohit Jain]Add BMIArray" />
+    <MESSAGE value="[Mohit Jain]Add Quadratic" />
+    <MESSAGE value="[Mohit Jain]Add RandomStats" />
+    <MESSAGE value="[Mohit Jain]Add PlayerHeights" />
+    <MESSAGE value="[Mohit Jain]Add NumberChecker1" />
+    <MESSAGE value="[Mohit Jain]Add NumberChecker2" />
+    <MESSAGE value="[Mohit Jain]Add NumberChecker3" />
+    <MESSAGE value="[Mohit Jain]Add NumberChecker4" />
+    <MESSAGE value="[Mohit Jain]Add NumberChecker5" />
+    <MESSAGE value="[Mohit Jain]Add FactorTasks" />
+    <MESSAGE value="[Mohit Jain]Add OTPProgram" />
+    <MESSAGE value="[Mohit Jain]Add CalendarProgram" />
+    <MESSAGE value="[Mohit Jain]Add CollinearPoints" />
+    <MESSAGE value="[Mohit Jain]Add EmployeeBonus" />
+    <MESSAGE value="[Mohit Jain]Add LineEquation" />
+    <MESSAGE value="[Mohit Jain]Add StudentPCM" />
+    <MESSAGE value="[Mohit Jain]Add MatrixOps1" />
+    <MESSAGE value="r" />
+    <MESSAGE value="[Mohit Jain]Add MatrixOps2" />
+    <MESSAGE value="[Mohit Jain]Add Animal" />
+    <MESSAGE value="[Mohit Jain]Add Employee Management System" />
+    <MESSAGE value="[Mohit Jain]Add Vehicle" />
+    <MESSAGE value="[Mohit Jain]Add library" />
+    <MESSAGE value="[Mohit Jain]Add school system" />
+    <MESSAGE value="[Mohit Jain]Add order" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Mohit Jain]Add order" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/gla/string/problem_statement/PalindromeString.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
