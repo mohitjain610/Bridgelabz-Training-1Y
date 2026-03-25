@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="227901b5-924a-4a49-b721-ab6322421139" name="Changes" comment="[Mohit Jain]Add order" />
+    <list default="true" id="227901b5-924a-4a49-b721-ab6322421139" name="Changes" comment="[Mohit Jain]Add order">
+      <change afterPath="$PROJECT_DIR$/src/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,14 +66,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CompareStrings.executor": "Run",
+    "Application.Q1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "ExceptionHandling",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/mohitjain/Downloads/college code/Bridgelabz-Training-1Y",
-    "onboarding.tips.debug.path": "/Users/mohitjain/Downloads/college code/Bridgelabz-Training-1Y/untitled/src/Main.java",
-    "project.structure.last.edited": "Modules",
+    "onboarding.tips.debug.path": "/Users/mohitjain/Downloads/college code/Bridgelabz-Training-1Y/src/Main.java",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "copyright"
@@ -478,6 +482,17 @@
     </task>
     <option name="localTasksCounter" value="102" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[Mohit Jain]Add BMIArray" />
