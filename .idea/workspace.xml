@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="227901b5-924a-4a49-b721-ab6322421139" name="Changes" comment="[Mohit Jain]Add order">
-      <change afterPath="$PROJECT_DIR$/src/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="227901b5-924a-4a49-b721-ab6322421139" name="Changes" comment="[Mohit Jain]Add Q5">
+      <change afterPath="$PROJECT_DIR$/src/Q6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +66,7 @@
   "keyToString": {
     "Application.CompareStrings.executor": "Run",
     "Application.Q1.executor": "Run",
+    "Application.Q2.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -87,46 +87,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770690999018</updated>
-    </task>
-    <task id="LOCAL-00053" summary="[Mohit Jain]Add MostFrequentChar">
-      <option name="closed" value="true" />
-      <created>1770817508039</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1770817508039</updated>
-    </task>
-    <task id="LOCAL-00054" summary="[Mohit Jain]Add RemoveChar">
-      <option name="closed" value="true" />
-      <created>1770817536876</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1770817536876</updated>
-    </task>
-    <task id="LOCAL-00055" summary="[Mohit Jain]Add AnagramCheck2">
-      <option name="closed" value="true" />
-      <created>1770817579977</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1770817579977</updated>
-    </task>
-    <task id="LOCAL-00056" summary="[Mohit Jain]Add ReplaceWord">
-      <option name="closed" value="true" />
-      <created>1770817607470</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1770817607470</updated>
-    </task>
-    <task id="LOCAL-00057" summary="[Mohit Jain]Add SimpleInterest">
-      <option name="closed" value="true" />
-      <created>1771038369593</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1771038369594</updated>
     </task>
     <task id="LOCAL-00058" summary="[Mohit Jain]Add Handshakes">
       <option name="closed" value="true" />
@@ -480,7 +440,47 @@
       <option name="project" value="LOCAL" />
       <updated>1771429590635</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="[Mohit Jain]Add Q1">
+      <option name="closed" value="true" />
+      <created>1774406975595</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1774406975595</updated>
+    </task>
+    <task id="LOCAL-00103" summary="[Mohit Jain]Add Q2">
+      <option name="closed" value="true" />
+      <created>1774407057541</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1774407057541</updated>
+    </task>
+    <task id="LOCAL-00104" summary="[Mohit Jain]Add Q3">
+      <option name="closed" value="true" />
+      <created>1774407127714</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1774407127714</updated>
+    </task>
+    <task id="LOCAL-00105" summary="[Mohit Jain]Add Q4">
+      <option name="closed" value="true" />
+      <created>1774407166440</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1774407166440</updated>
+    </task>
+    <task id="LOCAL-00106" summary="[Mohit Jain]Add Q5">
+      <option name="closed" value="true" />
+      <created>1774407197767</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1774407197767</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,11 +495,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[Mohit Jain]Add BMIArray" />
-    <MESSAGE value="[Mohit Jain]Add Quadratic" />
-    <MESSAGE value="[Mohit Jain]Add RandomStats" />
-    <MESSAGE value="[Mohit Jain]Add PlayerHeights" />
-    <MESSAGE value="[Mohit Jain]Add NumberChecker1" />
     <MESSAGE value="[Mohit Jain]Add NumberChecker2" />
     <MESSAGE value="[Mohit Jain]Add NumberChecker3" />
     <MESSAGE value="[Mohit Jain]Add NumberChecker4" />
@@ -520,7 +515,12 @@
     <MESSAGE value="[Mohit Jain]Add library" />
     <MESSAGE value="[Mohit Jain]Add school system" />
     <MESSAGE value="[Mohit Jain]Add order" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Mohit Jain]Add order" />
+    <MESSAGE value="[Mohit Jain]Add Q1" />
+    <MESSAGE value="[Mohit Jain]Add Q2" />
+    <MESSAGE value="[Mohit Jain]Add Q3" />
+    <MESSAGE value="[Mohit Jain]Add Q4" />
+    <MESSAGE value="[Mohit Jain]Add Q5" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Mohit Jain]Add Q5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
