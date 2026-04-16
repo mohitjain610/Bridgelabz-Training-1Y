@@ -1,9 +1,9 @@
 package com.gla.Regex;
 
-public class Valid_Username {
+public class LicensePlateValidation {
     static void main() {
-        String regex="^[a-zA-z][a-zA-Z0-9_]{4,14}$";
-        String[] usernames = {"user_123", "123user", "us"};
+        String regex="^[A-Z]{2}[0-9]{4}$";
+        String[] usernames = {"AB1234", "A12345", "A12"};
 
         for (String username : usernames) {
             if (username.matches(regex)) {
@@ -13,5 +13,4 @@ public class Valid_Username {
             }
         }
     }
-
 }
