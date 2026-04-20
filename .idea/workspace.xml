@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a7f8327-c6b3-4860-a749-f7e384a91351" name="Changes" comment="[Mohit jain]Add ExtractProgrammingLanguage" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lamda_and_stream_api" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mohitjain610&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mohitjain610/Bridgelabz-Training-1Y.git&quot;,
+    &quot;accountId&quot;: &quot;3582513c-d286-4c9c-8b86-c23bdd606ae4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3CbliXxFQHHTloG5s5chFnUAimn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CensorBadWord.executor": "Run",
+    "Application.ExtractLink.executor": "Run",
+    "Application.ExtractProgrammingLanguage.executor": "Run",
+    "Application.Extractdate.executor": "Run",
+    "Application.ReplaceAndModify.executor": "Run",
+    "Application.Valid_IP_Address.executor": "Run",
+    "Application.Validate_a_card_number.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "lamda__and__stream__api",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/mohitjain/Downloads/college code/Bridgelabz-Training-1Y/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Bridgelabz-Training-1Y" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Bridgelabz-Training-1Y" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="[Mohit jain]Add Extractdate">
+      <option name="closed" value="true" />
+      <created>1776354873206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776354873206</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[Mohit jain]Add Extractdate">
+      <option name="closed" value="true" />
+      <created>1776354981523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776354981523</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[Mohit jain]Add Extractdate">
+      <option name="closed" value="true" />
+      <created>1776355473921</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776355473921</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[Mohit jain]Add&#10;ReplaceAndModify">
+      <option name="closed" value="true" />
+      <created>1776356297566</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776356297566</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[Mohit jain]Add CensorBadWord">
+      <option name="closed" value="true" />
+      <created>1776356462272</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776356462272</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[Mohit jain]Add Valid_IP_Address">
+      <option name="closed" value="true" />
+      <created>1776390222672</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776390222672</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[Mohit jain]Add Validate_a_card_number">
+      <option name="closed" value="true" />
+      <created>1776390649872</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1776390649872</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[Mohit jain]Add ExtractProgrammingLanguage">
+      <option name="closed" value="true" />
+      <created>1776390897421</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1776390897421</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a7f8327-c6b3-4860-a749-f7e384a91351" name="Changes" comment="[Mohit jain]Add ExtractProgrammingLanguage" />
+      <created>1776662278593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776662278593</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Mohit jain]Add Extractdate" />
+    <MESSAGE value="[Mohit jain]Add&#10;ReplaceAndModify" />
+    <MESSAGE value="[Mohit jain]Add CensorBadWord" />
+    <MESSAGE value="[Mohit jain]Add Valid_IP_Address" />
+    <MESSAGE value="[Mohit jain]Add Validate_a_card_number" />
+    <MESSAGE value="[Mohit jain]Add ExtractProgrammingLanguage" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Mohit jain]Add ExtractProgrammingLanguage" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/gla/string/problem_statement/PalindromeString.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
