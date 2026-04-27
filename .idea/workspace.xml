@@ -4,7 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="227901b5-924a-4a49-b721-ab6322421139" name="Changes" comment="[Mohit Jain]Add order" />
+    <list default="true" id="227901b5-924a-4a49-b721-ab6322421139" name="Changes" comment="[Mohit jain]Add extra file">
+      <change afterPath="$PROJECT_DIR$/src/com/gla/LibraryManagementSystem/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/LibraryManagementSystem/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/LibraryManagementSystem/BookNotAvailableException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/LibraryManagementSystem/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/LibraryManagementSystem/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/LibraryManagementSystem/Faculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/LibraryManagementSystem/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/LibraryManagementSystem/LibraryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/LibraryManagementSystem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/LibraryManagementSystem/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/LibraryManagementSystem/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gla/LibraryManagementSystem/UserLimitExceededException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/Branch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/Faculty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/LibraryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/LibraryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gla/Student.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +40,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Exception" />
         <option value="Class" />
       </list>
     </option>
@@ -63,6 +90,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.CompareStrings.executor": "Run",
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
